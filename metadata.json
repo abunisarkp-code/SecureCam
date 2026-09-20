@@ -1,0 +1,11 @@
+{
+  "name": "SecureCam",
+  "description": "Smart Android security camera system turning phones into remote cameras and monitors with WebRTC, CameraX, and local motion detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
